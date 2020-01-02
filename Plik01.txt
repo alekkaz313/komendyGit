@@ -8,3 +8,4 @@ oraz
 Dodano asystenta pomocy
 easierApp
 Zmiana08
+Zmiana09
