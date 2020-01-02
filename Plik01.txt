@@ -3,3 +3,4 @@ Zmiana02 Zmaiana02a
 Zmiana03 Zmiana07c
 Zmiana04
 Zmiana05
+naprawa błędów - hotFix-001
