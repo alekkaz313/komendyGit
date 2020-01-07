@@ -10,3 +10,4 @@ easierApp
 Zmiana08
 Zmiana09
 Zmiana12wClonie
+Zmiana13
